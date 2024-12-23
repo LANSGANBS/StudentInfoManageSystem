@@ -1,6 +1,6 @@
 # StudentInfoManageSystem
 
-Harbin Institute of Technology Network 23-1, sophomore semester course design group work.
+Harbin University of Science and Technology Network 23-1, sophomore semester course design group work.
 
 系统环境配置
 
